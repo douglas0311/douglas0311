@@ -6,7 +6,7 @@ I build hands-on labs to strengthen my skills in infrastructure automation, obse
 
 ## Featured projects
 
-### [EKS Learning Lab](https://github.com/douglas0311/eks-learning-lab)
+### [AWS Cloud Engineering Lab](https://github.com/douglas0311/eks-learning-lab)
 A reproducible AWS Kubernetes lab for practicing SRE workflows—from provisioning infrastructure to investigating controlled failures.
 
 - **Infrastructure:** Terraform, Amazon EKS, ECR, and versioned S3 remote state.
@@ -14,7 +14,7 @@ A reproducible AWS Kubernetes lab for practicing SRE workflows—from provisioni
 - **Observability:** Prometheus and Grafana dashboards connecting workload health, resource requests, and node scheduling.
 - **Troubleshooting:** Progressive exercises covering container startup failures, insufficient schedulable CPU, and node scheduling constraints.
 
-[Explore the repository](https://github.com/douglas0311/eks-learning-lab) · [Application playbook](https://github.com/douglas0311/eks-learning-lab/blob/main/docs/simple-test/playbook.md) · [Kubernetes walkthrough](https://github.com/douglas0311/eks-learning-lab/blob/main/docs/simple-test/kubernetes-explained.md)
+[Engineering notes and RCA portfolio](https://github.com/douglas0311/eks-learning-lab/tree/main/docs) · [Explore the repository](https://github.com/douglas0311/eks-learning-lab) · [Application playbook](https://github.com/douglas0311/eks-learning-lab/blob/main/docs/simple-test/playbook.md) · [Kubernetes walkthrough](https://github.com/douglas0311/eks-learning-lab/blob/main/docs/simple-test/kubernetes-explained.md)
 
 ### [Elias](https://github.com/douglas0311/Elias)
 An engineering companion project exploring how guided questions, context, and evidence can support troubleshooting and stronger engineering judgment.
